@@ -9,7 +9,10 @@
 ## MODULO *JAVASCRIPT*
 ## MODULO _PHP Y MSYQL_
 ## MODULO **PYTHON**
-> empizas donde estas, usa lo que tienes, haz lo que puedas.
+> Empieza donde estás, usa lo que tienes y haz lo que puedas.
+Y mientras avanzas, confía en que cada pequeño paso construye algo más grande.
+No esperes el momento perfecto: créalo con tu esfuerzo diario.
+Lo importante no es tenerlo todo resuelto, sino tener la voluntad de comenzar, aprender en el camino y nunca dejar de crecer.
 {google fonts}(https://fonts.google.com/)
 
 ![alexa.](assets/images/alexa.jpg)
