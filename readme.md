@@ -9,7 +9,7 @@
 ## MODULO *JAVASCRIPT*
 ## MODULO _PHP Y MSYQL_
 ## MODULO **PYTHON**
-> empizas donde estas, con lo que tienes
+> empizas donde estas, usa lo que tienes, haz lo que puedas.
 {google fonts}(https://fonts.google.com/)
 
 ![alex.](assets/images/alex.jpg)
