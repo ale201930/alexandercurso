@@ -6,6 +6,8 @@
    - clases y pseudoclases
 - bootstrap 
 
-## MODULO JAVASCRIPT
-## MODULO PHP Y MSYQL
-## MODULO PYTHON
+## MODULO *JAVASCRIPT*
+## MODULO _PHP Y MSYQL_
+## MODULO **PYTHON**
+> empizas donde estas, con lo que tienes
+{google fonts}(https://fonts.google.com/)
