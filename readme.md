@@ -13,7 +13,7 @@
 Y mientras avanzas, confía en que cada pequeño paso construye algo más grande.
 No esperes el momento perfecto: créalo con tu esfuerzo diario.
 Lo importante no es tenerlo todo resuelto, sino tener la voluntad de comenzar, aprender en el camino y nunca dejar de crecer.
-{google fonts}(https://fonts.google.com/)
+{google fonts}(https://es.linkedin.com/)
 
 ![alexa.](assets/images/alexa.jpg)
 ```<h1> hola mundo de markdowm </h1>```
