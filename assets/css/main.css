@@ -1,0 +1,89 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    background-color: black; /* color del fondo*/
+    color: white; /* color de la letra*/
+    font-size: 14px; /*tama; o de la tipografia de la letra*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*tipo de letra*/
+    height: 80px;
+
+}
+.menu ul{
+    display: flex;
+    list-style: none;/* cambiar el estilo de la lista*/
+    justify-content: center;/* alinear el menu al centro*/
+}
+.menu ul li{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 25px;
+}
+
+.menu ul li a{
+    color: aqua;
+    display: block;
+}
+.menu ul li a:hover{
+    color: yellow;
+}
+
+/*Quines somos*/
+.quienes-somos{
+    display: grid; /*visulizar en forma de malla*/
+    grid-template-columns: auto auto; /*vividir en columnas tanto auto ponga o fr se dividira*/
+}
+.quienes-somos h2{
+    font-size: 48px;
+    font-weight: 800px;
+    color: rgb(0, 247, 255);
+}
+
+.img-quienes-somos{
+    width: 600px;
+}
+.pd-50{
+    padding: 0px 50px;
+}
+.contenedor{
+    max-width: 100%;
+    padding: 80px 30px;
+}
+.center{
+    text-align: center;
+
+}
+.contenedor h2{
+    font-size: 48px;
+    font-weight: bold;
+}
+.contenedor p{
+    font-size: 16px;
+    font-weight: 500;
+}
+/*servicios*/
+.servicios{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    text-align: center;
+    
+}
+.col{
+    padding: 5%;
+    border: 1px solid  rgb(4, 13, 14);
+    border-radius: 5px;
+   
+    
+}
+.servicios i{
+    font-size: 90px;
+}
