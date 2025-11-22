@@ -12,5 +12,5 @@
 > empizas donde estas, usa lo que tienes, haz lo que puedas.
 {google fonts}(https://fonts.google.com/)
 
-![alex.](assets/images/alex.jpg)
+![alexa.](assets/images/alexa.jpg)
 ```<h1> hola mundo de markdowm </h1>```
