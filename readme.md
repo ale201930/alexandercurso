@@ -11,3 +11,6 @@
 ## MODULO **PYTHON**
 > empizas donde estas, con lo que tienes
 {google fonts}(https://fonts.google.com/)
+
+![alex.](assets/images/alex.jpg)
+```<h1> hola mundo de markdowm </h1>```
