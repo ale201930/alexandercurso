@@ -15,6 +15,11 @@ No esperes el momento perfecto: créalo con tu esfuerzo diario.
 Lo importante no es tenerlo todo resuelto, sino tener la voluntad de comenzar, aprender en el camino y nunca dejar de crecer.
 {google fonts}(https://es.linkedin.com/)
 
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/frases.jpg" width="300">
+  <img src="assets/images/frases1.jpg" width="300">
+</div>
+
 <img src="assets/images/frases.jpg" width="350">
 <img src="assets/images/frases1.jpg" width="350">
 ```<h1> hola mundo de markdowm </h1>```
