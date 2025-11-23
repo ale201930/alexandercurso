@@ -19,7 +19,8 @@ Lo importante no es tenerlo todo resuelto, sino tener la voluntad de comenzar, a
   <img src="assets/images/frases.jpg" width="300">
   <img src="assets/images/frases1.jpg" width="300">
 </div>
-
-<img src="assets/images/frases.jpg" width="350">
-<img src="assets/images/frases1.jpg" width="350">
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/alex.jpg" width="300">
+  <img src="assets/images/alexa.jpg" width="300">
+</div>
 ```<h1> hola mundo de markdowm </h1>```
