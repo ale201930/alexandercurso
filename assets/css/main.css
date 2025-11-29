@@ -2,6 +2,16 @@ body{
     padding: 0px;
     margin: 0px;
 }
+:root{
+    --main-color:#3DB6B1;
+    --second-color:#1581BF;
+    --third-color:#456882;
+    --four-color:#FF3838;
+    --white:#DC0000;
+    --black:#222222;
+    --gray-dark:#050E3C;
+    --gray:#313647;
+}
 ul{
     list-style: none;
 
@@ -10,8 +20,8 @@ a{
     text-decoration: none;
 }
 .menu{
-    background-color: black; /* color del fondo*/
-    color: white; /* color de la letra*/
+    background-color: var(--main-color); /* color del fondo*/
+    color: var(--second-color); /* color de la letra*/
     font-size: 14px; /*tama; o de la tipografia de la letra*/
     font-family: Verdana, Geneva, Tahoma, sans-serif; /*tipo de letra*/
     height: 80px;
@@ -29,11 +39,11 @@ a{
 }
 
 .menu ul li a{
-    color: aqua;
+    color: var(--black);
     display: block;
 }
 .menu ul li a:hover{
-    color: yellow;
+    color: var(--gray);
 }
 
 /*Quines somos*/
@@ -44,7 +54,7 @@ a{
 .quienes-somos h2{
     font-size: 48px;
     font-weight: 800px;
-    color: rgb(0, 247, 255);
+    color: var(--black);
 }
 
 .img-quienes-somos{
@@ -94,5 +104,25 @@ footer{
     grid-template-columns: auto auto auto;
 }
 footer .logo {
-    width: 150px;
+    width: 300px;
+}
+footer h3{
+    color: var(--main-color);
+    font-size: 32px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer .social-icons {
+display: flex;
+}
+footer .social-icons li {
+    padding: 10px;
+    
+}
+footer .social-icons li a{
+    font-size: 40px;
+    color: var(--black);
+}
+footer .social-icons li a:hover {
+    color: var(--main-color);
 }
