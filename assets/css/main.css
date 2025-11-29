@@ -104,6 +104,9 @@ a{
     color: #3DB6B1;
 
 }
+.icon :hover{
+    color: var(--white)
+}
 
 /*footer*/
 footer{
