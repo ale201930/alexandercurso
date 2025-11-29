@@ -77,7 +77,7 @@ a{
     text-align: center;
     
 }
-.col{
+.servicios .col{
     padding: 5%;
     border: 1px solid  rgb(4, 13, 14);
     border-radius: 5px;
@@ -86,4 +86,13 @@ a{
 }
 .servicios i{
     font-size: 90px;
+}
+
+/*footer*/
+footer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+footer .logo {
+    width: 150px;
 }
