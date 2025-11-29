@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 body{
     padding: 0px;
     margin: 0px;
+    font-family: "Roboto", sans-serif;
 }
 :root{
     --main-color:#3DB6B1;
@@ -55,6 +58,7 @@ a{
     font-size: 48px;
     font-weight: 800px;
     color: var(--black);
+    font-family: "Roboto", sans-serif;
 }
 
 .img-quienes-somos{
@@ -85,6 +89,7 @@ a{
     grid-template-columns: 1fr 1fr 1fr;
     gap: 30px;
     text-align: center;
+    font-family: "Roboto", sans-serif;
     
 }
 .servicios .col{
@@ -112,7 +117,7 @@ footer h3{
     color: var(--main-color);
     font-size: 32px;
     font-weight: 900;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 footer .social-icons {
 display: flex;
@@ -139,4 +144,5 @@ footer .social-icons li a:hover {
     font-size: 15px;
     height: 60px;
     padding-top: 15px;
+    font-family: "Roboto", sans-serif;
 }
